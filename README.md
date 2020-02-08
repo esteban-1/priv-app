@@ -1,1 +1,1 @@
-This is my first project, learning c *, the all files uploaded are 
+This is my first project, learning c *, so part of my code might be absurd.
