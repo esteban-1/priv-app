@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\private\private\bin\Debug\@private.exe.config
+C:\Users\Administrator\source\repos\private\private\bin\Debug\@private.exe
+C:\Users\Administrator\source\repos\private\private\bin\Debug\@private.pdb
+C:\Users\Administrator\source\repos\private\private\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\source\repos\private\private\obj\Debug\private.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\private\private\obj\Debug\private.Properties.Resources.resources
+C:\Users\Administrator\source\repos\private\private\obj\Debug\private.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\private\private\obj\Debug\private.csproj.CopyComplete
+C:\Users\Administrator\source\repos\private\private\obj\Debug\@private.exe
+C:\Users\Administrator\source\repos\private\private\obj\Debug\@private.pdb
+C:\Users\Administrator\source\repos\private\private\obj\Debug\private.formprincipal.resources
